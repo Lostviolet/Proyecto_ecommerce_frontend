@@ -1,0 +1,23 @@
+.Home{
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+.Home h2{
+    color: white;
+
+}
+.Home-left{
+    flex: 1;
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    padding-left: 180px;
+    line-height: 1.1;
+
+}
+.Home-left img{
+ width: 750px; 
+ 
+}
